@@ -28,8 +28,8 @@ A Python script to perform network reconnaissance using Nmap, scanning for open 
    - macOS: `brew install nmap` (with Homebrew) or download from [nmap.org](https://nmap.org/download.html).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/network-port-scanner.git
-   cd network-port-scanner
+   git clone https://github.com/Lab-12345/Network_scan.git
+   cd Network_scan
    ```
 3. **Ensure Python is Installed**:
    - Verify with `python3 --version` or `python --version`.
