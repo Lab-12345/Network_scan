@@ -120,16 +120,6 @@ scan_types = [
 ]
 ```
 
-## Contributing
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/new-scan`).
-3. Commit changes (`git commit -m "Add new scan type"`).
-4. Push to the branch (`git push origin feature/new-scan`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Acknowledgments
 - Built with [Nmap](https://nmap.org/), a powerful network scanning tool.
 - Inspired by the need to learn network reconnaissance and security auditing.
